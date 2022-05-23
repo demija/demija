@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Adem</h1>
 <h3 align="center">Backend developer</h3>
 
-- I’m currently learning **iOS development**
-
 - 📫 How to reach me **adem.gabela@gmail.com**
 
 
